@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Zhuoran
+first_name: Vladimir
 middle_name:
-last_name: Qiao
-email: zrqiao0@gmail.com
+last_name: Ladygin
+email: vladygin@caltech.edu
 description: # the ">" symbol means to ignore newlines until "footer_text:"
-  Physics-informed AI for molecular discovery. Lead ML scientist @EntosAI.
+  Computational Materials Scientist. PhD Candidate at California Institute of Technology
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -40,15 +40,15 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: zrqiao # your GitHub user name
-twitter_username: ZhuoranQ # your Twitter handle
-linkedin_username: zhuoran-qiao-269003153 # your LinkedIn user name
-scholar_userid: -u83TOkAAAAJ # your Google Scholar ID
-orcid_id: 0000-0002-5704-7331 # your ORCID ID
+github_username: WolandDream # your GitHub user name
+twitter_username: # your Twitter handle
+linkedin_username: vladimir-ladygin # your LinkedIn user name
+scholar_userid: -KCmESCwAAAAJ # your Google Scholar ID
+orcid_id: 0000-0002-5697-6956 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Zhuoran_Qiao # your profile on ResearchGate
+research_gate_profile: Vladimir-Ladygin # your profile on ResearchGate
 blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
@@ -60,7 +60,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-# blog_name: Zhuoran Qiao  # your blog must have a name for it to show up in the nav bar
+# blog_name: Ladygin Vladimir  # your blog must have a name for it to show up in the nav bar
 # blog_description: a simple whitespace theme for academics
 # permalink: /blog/:year/:title/
 
@@ -69,7 +69,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: zqiao # put your disqus shortname
+disqus_shortname: vladimir # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -126,8 +126,8 @@ plugins:
 
 scholar:
 
-  last_name: Qiao
-  first_name: Zhuoran
+  last_name: Ladygin
+  first_name: Vladimir
 
   style: apa
   locale: en

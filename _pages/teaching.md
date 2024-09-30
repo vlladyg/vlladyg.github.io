@@ -8,38 +8,17 @@ nav: true
 
 ## Conference and seminar presentations
 
-* (Upcoming) Invited talk Quantitative Biology 2024: Biomedical Data and AI, Peking University, July 15-17th, 2024.
+* Talk at <a href="https://neutronscattering.org/2023/11/american-conference-on-neutron-scattering-2024/">American Conference on Neutron Scattering 2024 </a>, Jun. 23, 2024
 
-* Invited talk at Drug Discovery Nexus, San Diego, May 9th 2024
+* Talk at <a href="https://www.nersc.gov/users/NUG/annual-meetings/nug-2023/">NERSC Users Group (NUG) meeting 2023</a> conference, Sep. 26, 2023
 
-* Invited talk at Microsoft Research AI4Science, Wednesday May 8th 2024
+* Talk at <a href="https://www.tms.org/TMS2023/TMS2023/Default.aspx">TMS 2023 Annual Meeting & Exhibition</a>, Mar. 19, 2023
 
-* Invited talk on <a href="https://arxiv.org/abs/2209.15171">NeuralPLexer</a> at <a href="https://www.nvidia.com/en-us/clara/drug-discovery/">NVIDIA Clara Discovery</a> Show & Tell, Apr. 5, 2023
+* American Conference on Neutron Scattering 2022 - Poster Session
 
-* Invited talk at the <a href="https://www.ml4proteinengineering.com/">ML for Protein Engineering Seminar</a>, Mar. 21, 2023 (<a href="https://youtu.be/73blwIx9QUg">Presentation recording</a>)
-
-* Invited talk on our <a href="https://arxiv.org/abs/2209.15171">NeuralPLexer</a> work as part of the <a href="https://datasig.ac.uk/event/zhuoran-qiao-2023-03-08">Rough Path Interest Group</a> at the Alan Turing Institute, Mar. 8, 2023
-
-* Invited presentation at PKU CCME, Dec. 9, 2022.
-
-* Contributed talk at NeurIPS 2022 <a href="https://www.mlsb.io/">Machine Learning in Structural Biology Workshop</a>.
-
-* ACS Spring 2022 - Poster and Sci-Mix Session
-
-* Invited talk on quantum-chemistry-informed geometric learning as part of the <a href="https://www.cmu.edu/aced/sciML.html">Scientific Machine Learning Webinar Series</a> at Carnegie Mellon University, Jan. 13, 2022
-
-* Talk at <a href="https://www.nyas.org/events/2021/ai-in-chemical-biology-new-frontiers/">AI in Chemical Biology: New Frontiers</a> webinar, Mar. 17, 2021
-
-* Contributed talk on multi-task and differentiable learning for molecular electronic structure on the ML4Molecules workshop at NeurIPS 2020, Dec. 12, 2020
-  * Slides and recording at <a href="https://ml4molecules.github.io/">workshop website</a>
-
-## Ph.D. Thesis Defense
-
-* I defended my dissertation on Nov. 22, 2022. Slides for my thesis defense can be found <a href="https://drive.google.com/file/d/1TKfUd-0yWqXRalpmcHWKfc-T8vE6G50Q/view?usp=sharing">here</a>.
-
+* Talk at <a href="https://www.tms.org/TMS2022/TMS2022/Default.aspx">TMS 2022 Annual Meeting & Exhibition</a>, Feb. 27, 2022
 
 ## Teaching
 
-* (TA) Ch21c Spring 2019-2020, with Prof. Jack Beauchamp
-* (TA) Ch1b Winter 2019-2020, with Prof. Tom Miller
-* (TA) Ch1a Fall 2019-2020, with Prof. Nathan Lewis
+* (TA) Lumiere, AI Summer School for High School Students 2023-2024
+* (TA) APh105b Winter 2023-2024, with Prof. Brent Fultz

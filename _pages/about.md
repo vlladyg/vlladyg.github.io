@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Physics-Informed AI for Biochemical Discovery. 
+description:  Computational Materials Scientist. Ph.D. Candidate at California Institute of Technology. 
 
 profile:
   align: left
@@ -14,9 +14,11 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I am a Senior Machine Learning Scientist at <a href="https://www.iambic.ai/">Iambic Therapeutics</a>, currently leading research on biomolecular structure prediction and generative AI for drug discovery. I earned my Ph.D. degree in Chemistry from <a href="https://cce.caltech.edu/">Caltech CCE</a> with a minor in <a href="https://qse.caltech.edu/">Quantum Science and Engineering</a> (<a href="https://thesis.library.caltech.edu/15077">Thesis</a>), where I was fortunately advised by <a href="http://tensorlab.cms.caltech.edu/users/anima/group.html">Prof. Anima Anandkumar</a> and <a href="https://millergroup.caltech.edu/Miller_Group/Home.html">Prof. Thomas Miller</a>. My past research centers around developing physics-driven geometric learning approaches to tackle complex problems in chemistry and structural biology.
+I’m a materials science researcher at <a href="https://www.eas.caltech.edu/">    Caltech EAS</a>, where I study fundamental thermal properties in materials at <a href="https://www.its.caltech.edu/~matsci/btfgrp/BTF_Group1.html">    Fultz Group</a>. My work sits at the intersection of theory, experiment, and computation using tools and techniques, including high-performance computing, machine learning and bayesian analyses applied to construction of lattice dynamics models and analysis of inelastic neutron scattering experiments for single crystals.
 
-I earned my BSc from Peking University in 2019. As an undergraduate student I worked in the <a href="https://www.chem.pku.edu.cn/gaoyq/">Gao Group</a> at <a href="https://www.chem.pku.edu.cn/en/">PKU CCME</a>, where I studied the statistical mechanics of confined soft matters. 
+I eacned my BSc from Moscow Insitute of Physics and Technology in 2018 and continued with two Master Degrees from Moscow Institute of Physics and Technology and Skolokovo Institute of Science and Technology in 2020. During that time I worked with Alexey Yanilkin on Machine Learning Interatomic Potentials Benchmarking and in <a href="https://sites.skoltech.ru/multiscale">    Alexander Shapeev's Group</a> on Automatic Gaussian Process based approach to matials phase diagram construction.
+
+During My BSs and MSc I had internships at <a href="https://www.hzdr.de/db/Cms?pOid=61024&pNid=1139">    Krasheninnikov Group</a> at <a href="https://www.hzdr.de/db/Cms?pNid=0">    HZDR</a> and <a href="https://photon-science.desy.de/research/research_teams/x_ray_crystallography_and_imaging/publications/index_eng.html">    Vartaniant Group</a> at <a href=    "https://www.desy.de/index_eng.html">    DESY</a>
 
 {% comment %} 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
